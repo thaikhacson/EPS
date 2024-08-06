@@ -1,39 +1,3 @@
-/**
-*   @file    Can_Cfg.c
-*   @version 1.0.5
-*
-*   @brief   AUTOSAR Can - module interface
-*   @details Configuration Structures for PreCompile.
-*
-*   @addtogroup CAN_DRIVER
-*   @{
-*/
-/*==================================================================================================
-*   Project              : AUTOSAR 4.3 MCAL
-*   Platform             : ARM
-*   Peripheral           : FLEXCAN
-*   Dependencies         : 
-*
-*   Autosar Version      : 4.3.1
-*   Autosar Revision     : ASR_REL_4_3_REV_0001
-*   Autosar Conf.Variant :
-*   SW Version           : 1.0.5
-*   Build Version        : S32K1XX_MCAL_1_0_5_RTM_ASR_REL_4_3_REV_0001_31-Jul-23
-*
-*   (c) Copyright 2006-2023 Freescale Semiconductor, Inc. 
-*   Copyright 2017-2023 NXP
-*
-*   NXP Confidential. This software is owned or controlled by NXP and may only be 
-*   used strictly in accordance with the applicable license terms.  By expressly 
-*   accepting such terms or by downloading, installing, activating and/or otherwise 
-*   using the software, you are agreeing that you have read, and that you agree to 
-*   comply with and are bound by, such license terms.  If you do not agree to be 
-*   bound by the applicable license terms, then you may not retain, install,
-*   activate or otherwise use the software.
-==================================================================================================*/
-/*==================================================================================================
-==================================================================================================*/
-
 #ifdef __cplusplus
 extern "C"{
 #endif
